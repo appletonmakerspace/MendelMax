@@ -240,7 +240,7 @@ module ramps(color="blue"){
 }
 
 
-module mendelmax15(w=300, l=420, bs=50, color="orange", outervertex=false, x=30, y=50, z=24+15+27){
+module mendelmax15(w=300, l=420, bs=50, color="DeepSkyBlue", outervertex=false, x=30, y=50, z=24+15+27){
 
 
 	d=l-80;
